@@ -1,11 +1,11 @@
 {
-    "version": "1.29.0",
+    "version": "1.32.0",
     "description": "Downloads YouTube on Windows and paces itself to stay under YouTube's limits. Built on yt-dlp.",
     "homepage": "https://github.com/billyreagan/tubepacer",
     "license": "MIT",
     "depends": ["yt-dlp", "ffmpeg", "deno"],
-    "url": "https://github.com/billyreagan/tubepacer/releases/download/v1.29.0/tubepacer.zip",
-    "hash": "1b66604f8468ea72fc09b8ebe4db9bc4b094ace3e0a4c934dc72dfedfc8923ec",
+    "url": "https://github.com/billyreagan/tubepacer/releases/download/v1.32.0/tubepacer.zip",
+    "hash": "28c654b6dadf6bc86c15a0ed6eff54e294e9ea72a606018c7aa496bf15055904",
     "bin": [["ytdl.cmd", "ytdl"]],
     "checkver": "github",
     "autoupdate": {
